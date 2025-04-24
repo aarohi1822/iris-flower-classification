@@ -40,6 +40,13 @@ This project classifies Iris flowers into three species — *Setosa*, *Versicolo
 
 Achieved **92% accuracy** on the test data using **Logistic Regression**, successfully surpassing the industry baseline of 90% for this dataset.
 
+## 💻 Code Access
+
+You can view and run the full notebook on **Google Colab** here:  
+🔗 [Open in Colab](https://colab.research.google.com/drive/1fl2dfu_RVG38LMEA5mm-9_Z1SxoKMs49?usp=sharing)
+
+> No setup needed — explore the entire code, EDA, and GridSearchCV directly in your browser.
+
 
 ## 🔧 Future Improvements
 
