@@ -9,7 +9,6 @@ This project classifies Iris flowers into three species — *Setosa*, *Versicolo
 - 📊 **Exploratory Data Analysis (EDA)** with Seaborn & Matplotlib
 - 🎯 **Logistic Regression** for classification
 - 🔍 **GridSearchCV** for hyperparameter tuning
-- ✅ Achieved **92% accuracy** on test data
 - 🧪 Built and tested on **Google Colab**
 
 ---
