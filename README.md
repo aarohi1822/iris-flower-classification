@@ -5,7 +5,7 @@ This project classifies Iris flowers into three species — *Setosa*, *Versicolo
 ---
 
 ## 📌 Highlights
-
++ ✅ Achieved **92% accuracy**, surpassing the 90% benchmark using Logistic Regression
 - 📊 **Exploratory Data Analysis (EDA)** with Seaborn & Matplotlib
 - 🎯 **Logistic Regression** for classification
 - 🔍 **GridSearchCV** for hyperparameter tuning
@@ -36,6 +36,11 @@ This project classifies Iris flowers into three species — *Setosa*, *Versicolo
 > *The species are nicely separable when visualized — making it a perfect starter dataset!*
 
 ---
+
+## 🧠 Model Performance
+
+Achieved **92% accuracy** on the test data using **Logistic Regression**, successfully surpassing the industry baseline of 90% for this dataset.
+
 
 ## 🔧 Future Improvements
 
